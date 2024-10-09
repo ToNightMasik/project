@@ -14,4 +14,4 @@ answers[0] = prompt('name?', '')
 answers[1] = prompt('familia?', '')
 answers[2] = prompt('age?', '')
 
-document.write(answers);
+console.log(typeof(answers));

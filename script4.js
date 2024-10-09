@@ -4,4 +4,4 @@
 
  const user = 'Vadim';
  
- alert(`Privet. ${user}`);
+ alert(`Privet, ${user}`);
